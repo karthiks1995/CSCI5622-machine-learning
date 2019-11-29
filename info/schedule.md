@@ -30,12 +30,12 @@
 |  | 10.23 | Chapter 7, [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf)  | Hard-margin SVM and Soft-margin SVM | [slides](../slides/lec14.pdf) | Final project proposal due, HW3 Due |
 | 10 | 10.28 | Chapter 11 | Duality, Kernel trick & hands on SVM | [notebook](../in-class-notebooks/Hands_on_SVM_example.ipynb),  [slides](../slides/lec15.pdf)| |
 |  | 10.30 | Chapter 12 | Bagging, Random Forests, Boosted Decision trees   | [slides](../slides/lec16.pdf) | |
-|  11 | 11.4 |Chapter 15 | Unsupervised learning I|  | |
-| | 11.6 | Chapter 15 | Unsupervised learning II | |HW4 Due  |
-|  12 | 11.11 | Chapter 16  |  Expectation-minimization algorithms  |   | |
+|  11 | 11.4 |Chapter 15 | Unsupervised learning I| [slides](../slides/lec17.pdf) | |
+| | 11.6 | Chapter 15 | Unsupervised learning II| [slides](../slides/lec18.pdf) |HW4 Due  |
+|  12 | 11.11 | Chapter 16  |  Expectation-minimization algorithms   |   [slides](../slides/lec19.pdf) | |
 | | 11.13 |  |  Final project check in   |  | Final project midpoint report due|
-|  13 | 11.18 | | Topic models| |  |
-| | 11.20 | |  Variational Inference | | HW5 due |
+|  13 | 11.18 | | Topic models| [slides](../slides/lec20.pdf) |  |
+| | 11.20 | |  Variational Inference | [slides](../slides/lec21.pdf)  | HW5 due |
 |  14 | 11.25 | | Fall break | | |
 | | 11.27 | | Fall break | | |
 |  15 | 12.2 | |   Prelim 2 (7, 8, 9, 10, 11, 12) | | |
